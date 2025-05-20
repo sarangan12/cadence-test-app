@@ -17,6 +17,7 @@ will be the orchestrator that unites all of the components.
 
 ## Output
 
+![Screenshot 2025-05-19 175627](https://github.com/user-attachments/assets/18c9e08f-e6ce-485a-a007-a50ff60dc6be)
 
 ## Feedback on the existing documentation 
 
